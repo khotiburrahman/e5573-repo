@@ -7,7 +7,7 @@
 
 BASE="http://192.168.8.1"
 USER="admin"
-PASS='r3z12n'
+PASS='admin'
 HDR="/tmp/e5573_hdr"
 WAN_CACHE="/tmp/e5573_wan.cache"
 WAN_CACHE_TTL=30
